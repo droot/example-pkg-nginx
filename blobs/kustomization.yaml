@@ -1,4 +1,5 @@
 # kustomization file as a general YAML blob
 labels:
   color: blue
+  size: large
 
