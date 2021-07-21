@@ -6,6 +6,5 @@ metadata:
 # Example configuration for the webserver
 # at https://github.com/monopole/hello
 commonLabels:
-  app: hello-1
-
+  app: hello-2
 
